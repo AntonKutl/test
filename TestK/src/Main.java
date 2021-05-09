@@ -30,6 +30,7 @@ public class Main {
         listMultiplicationTable.add(new MultiplicationTable("*","ft3ng","Mft3ng",-6));
         listMultiplicationTable.add(new MultiplicationTable("*","wh","Gwh",-9));
 
+
         listConvertationTable.add(new ConvertationTable("*","Mtce","Mm3ng",751.4768963));
         listConvertationTable.add(new ConvertationTable("*","Gft3ng","Twh",0.301277062));
         listConvertationTable.add(new ConvertationTable("*","MMbtu","Mj",1055.060005));
